@@ -1,28 +1,20 @@
-# **Supplier Quality Analysis**
+# Supplier Quality Analysis
 
-**Project Overview**: 
+## Project Overview
 
-This project analyzed manufacturing defect data to identify key issues impacting product quality and operational efficiency. The objective was to uncover trends in defect rates, assess vendor performance, and offer recommendations to reduce defects and enhance production processes.
+This project focused on examining manufacturing defect data to surface insights around product quality and operational bottlenecks. The goal was to understand defect patterns across vendors and materials, evaluate supplier performance, and propose practical steps to reduce defect rates and improve production outcomes.
 
-**Tools & Techniques**: 
+## Tools & Techniques
 
-• Data Exploration: Excel, Power Query & Python
+- **Data Exploration:** Excel, Power Query & Python
+- **Data Cleaning:** Power Query & Python
+- **Data Analysis & Visualization:** Tableau
+- **Insights & Storytelling:** Tableau
 
-• Data Cleaning: Power Query & Python
+## Key Outcomes
 
-• Data Analysis & Visualization: Tableau
+- **Trend Identification:** Uncovered significant patterns across suppliers, raw materials, and defect types — highlighting the areas most responsible for quality issues.
 
-• Insights & Recommendations: Tableau
+- **Vendor Benchmarking:** Built performance benchmarks across suppliers to enable targeted, evidence-based recommendations for quality improvement.
 
-• Storytelling: Tableau
-
-**Project Highlights**:
-
-This analysis achieved the following key outcomes:
-
-• Spotting Trends: Identified critical patterns across vendors, materials, and defect categories, emphasizing areas with the greatest impact on defect rates.
-
-• Benchmarking Performance: Established benchmarks for vendor quality, enabling precise recommendations and driving measurable improvements.
-
-• Data-Driven Decisions: Delivered actionable insights to support strategic vendor management and quality control, enhancing efficiency and product quality.
-# DVA_practice_proj
+- **Actionable Insights:** Translated data findings into concrete recommendations for vendor management and quality control strategies, aimed at improving both efficiency and output quality.
